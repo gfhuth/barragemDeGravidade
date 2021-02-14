@@ -1,0 +1,7 @@
+voila
+packaging
+ipywidgets
+matplotlib
+numpy
+
+
