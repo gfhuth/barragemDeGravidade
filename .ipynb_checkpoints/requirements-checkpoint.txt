@@ -1,6 +1,0 @@
-voila
-packaging
-ipywidgets
-matplotlib
-numpy
-voila-vuetify>=0.0.1a6
